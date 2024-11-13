@@ -1,0 +1,7 @@
+@software{OpenAUV,
+  author = {Sha, Zeyu},
+  doi = {10.5281/zenodo.1234},
+  url = {https://github.com/github-linguist/linguist},
+  version = {1.0.1},
+  year = {2024}
+}
