@@ -10,7 +10,7 @@ Description: Includes CAD drawings and production notes of the main parts and ac
 Update date: 2024.12.26
 Remarks: Update details of OpenAUV's size and assembled structure.
 ##
-Part Name: Electrical circuit
+Part Name: Electrical circuit/Power distribution
 Description: It includes the internal electrical connection of OpenAUV, and the schematic diagram of part of the self-made circuit.
 Update date: 2024.12.26
 Remarks: Updatd schematic diagram of energy distribution module.
