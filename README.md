@@ -14,14 +14,14 @@ Part Name: Electrical circuit
 Description: It includes the internal electrical connection of OpenAUV, and the schematic diagram of part of the self-made circuit.
 Update date: 2024.09.26
 Remarks: First release version.
-##
-Part Name: Perception & Communication
-Description: Includes the use scheme of OpenAUV compatible underwater sensors, and the underwater and surface communication scheme that can be adopted.
-Update date: 2024.09.26
-Remarks: First release version.
-##
-Part Name: Modeling & Control
-Description: Includes the establishment of OpenAUV kinematic or dynamic model and motion control related content.
-Update date: 2024.09.26
-Remarks: First release version.
-##
+//##
+//Part Name: Perception & Communication
+//Description: Includes the use scheme of OpenAUV compatible underwater sensors, and the underwater and surface communication scheme that can be adopted.
+//Update date: 2024.09.26
+//Remarks: First release version.
+//##
+//Part Name: Modeling & Control
+//Description: Includes the establishment of OpenAUV kinematic or dynamic model and motion control related content.
+//Update date: 2024.09.26
+//Remarks: First release version.
+//##
