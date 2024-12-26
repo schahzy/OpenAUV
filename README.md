@@ -7,21 +7,17 @@ Developers in the use of relevant information must be adapted to local condition
 ##
 Part Name: Mechanical structure
 Description: Includes CAD drawings and production notes of the main parts and accessories of the OpenAUV. And list of standard parts that OpenAUV can procure.
-Update date: 2024.09.26
-Remarks: First release version.
+Update date: 2024.12.26
+Remarks: Update details of OpenAUV's size and assembled structure.
 ##
 Part Name: Electrical circuit
 Description: It includes the internal electrical connection of OpenAUV, and the schematic diagram of part of the self-made circuit.
-Update date: 2024.09.26
+Update date: 2024.12.26
+Remarks: Updatd schematic diagram of energy distribution module.
+##
+Part Name: Electricity Component
+Description: This section can help developers choose OpenAUV internal electronics to provide guidance, including the component model and manufacturer.
+Update date: 2024.12.26
 Remarks: First release version.
-//##
-//Part Name: Perception & Communication
-//Description: Includes the use scheme of OpenAUV compatible underwater sensors, and the underwater and surface communication scheme that can be adopted.
-//Update date: 2024.09.26
-//Remarks: First release version.
-//##
-//Part Name: Modeling & Control
-//Description: Includes the establishment of OpenAUV kinematic or dynamic model and motion control related content.
-//Update date: 2024.09.26
-//Remarks: First release version.
-//##
+
+
