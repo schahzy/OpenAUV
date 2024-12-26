@@ -19,5 +19,6 @@ Part Name: Electricity Component
 Description: This section can help developers choose OpenAUV internal electronics to provide guidance, including the component model and manufacturer.
 Update date: 2024.12.26
 Remarks: First release version.
-
-
+##
+If you have questions about the technical details or just interested in this project, please feel free to contact me with Email :)
+Email address: schahzy@163.com
